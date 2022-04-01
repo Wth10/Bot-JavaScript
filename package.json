@@ -1,0 +1,10 @@
+{
+  "name": "botjava",
+  "version": "0.1.1",
+  "description": "Project",
+  "private": true,
+  "dependencies": {
+    "puppeteer": "^13.5.1",
+    "readline-sync": "^1.4.10"
+  }
+}
