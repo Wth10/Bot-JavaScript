@@ -1,7 +1,11 @@
 {
   "name": "botjava",
-  "version": "1.0.0",
+  "version": "1.0",
   "description": "Project",
+  "author": {
+    "name": "Wth - Weuberth",
+    "url": "https://github.com/Wth10"
+  },
   "private": true,
   "dependencies": {
     "puppeteer": "^13.5.1",
